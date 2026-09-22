@@ -1,0 +1,13 @@
+{
+  "name": "@superinstance/peanut-gallery",
+  "version": "0.1.0",
+  "description": "Peanut Gallery: multi-model adversarial creativity. Models watch, critique, and one-up each other.",
+  "main": "index.js",
+  "bin": {
+    "peanut-gallery": "./bin/cli.js",
+    "gallery": "./bin/cli.js"
+  },
+  "keywords": ["multi-model", "adversarial", "critique", "gallery", "jev", "gan"],
+  "author": "Casey DiGennaro",
+  "license": "Apache-2.0"
+}
