@@ -1,6 +1,6 @@
 {
   "name": "@superinstance/peanut-gallery",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Peanut Gallery: multi-model adversarial creativity. Models watch, critique, and one-up each other.",
   "main": "index.js",
   "bin": {
