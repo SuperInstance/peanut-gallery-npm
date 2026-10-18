@@ -1,13 +1,28 @@
 {
   "name": "@superinstance/peanut-gallery",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Peanut Gallery: multi-model adversarial creativity. Models watch, critique, and one-up each other.",
   "main": "index.js",
   "bin": {
     "peanut-gallery": "./bin/cli.js",
     "gallery": "./bin/cli.js"
   },
-  "keywords": ["multi-model", "adversarial", "critique", "gallery", "jev", "gan"],
+  "keywords": [
+    "multi-model",
+    "adversarial",
+    "critique",
+    "gallery",
+    "jev",
+    "gan"
+  ],
   "author": "Casey DiGennaro",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuperInstance/peanut-gallery-npm.git"
+  },
+  "homepage": "https://github.com/SuperInstance/peanut-gallery-npm#readme",
+  "bugs": {
+    "url": "https://github.com/SuperInstance/peanut-gallery-npm/issues"
+  }
 }
